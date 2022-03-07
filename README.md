@@ -1,2 +1,2 @@
 # stringHandling
- test repo for some string handling functions
+ Repo for tools to clean or work with strings.
